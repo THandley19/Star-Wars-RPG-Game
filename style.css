@@ -1,0 +1,23 @@
+body {
+  background: url("./assets/star-wars-backgrounds-25.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.choice-text {
+  color: white;
+}
+
+.character-name,
+.power-level {
+  margin: auto;
+}
+
+img {
+  max-height: 200px;
+}
+
+#user-messages,
+#enemy-messages {
+  color: antiquewhite;
+}
